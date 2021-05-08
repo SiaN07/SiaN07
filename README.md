@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sia
-- 👀 I’m interested in Frontend and Backend Dev using React and NodeJS
-- 🌱 I’m currently learning Frontend Dev using React through frontendmasters
+- 👀 I’m interested in Frontend and Backend Dev using React and NodeJS and I'm curently learning them from frontendmasters
+- 🌱 I’m working as an automation engineer and doing a bunch of automation projects for web apps
 - 💞️ I’m looking to collaborate on React projects 
 - 📫 How to reach me psiantayo96@gmail.com
 
